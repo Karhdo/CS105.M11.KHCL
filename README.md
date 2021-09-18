@@ -38,6 +38,9 @@
   </td>
 </tr>
 <table>
+  
+
+ 
 #### 2. Thuật toán Bresenham
 
 <!-- Footer -->
