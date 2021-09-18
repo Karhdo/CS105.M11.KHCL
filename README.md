@@ -23,8 +23,14 @@
 ## QUÁ TRÌNH
 ### Week 1: CÁC THUẬT TOÁN VẼ ĐƯỜNG THẲNG
 #### 1. Thuật toán Digital differential analyzer (DDA)
-  - Phương trình đường thẳng: `y = m.x + b`.
-  
+  - Phương trình đường thẳng: `y = m.x + b`.</br>
+  </br>![Phương trình đường thẳng](Image/ptdt.png)
+  - Để đơn giản hóa giải thuật ta xét đường thẳng với `min [0,1] , Dx > 0`
+  - Tại mỗi bước ta cho `X` tăng lên 1 đơn vị tức là `Xi+1 = Xi + 1 => Yi+1 = Yi + m`
+  - Do `m` là số thực nên muốn `Yi+1` là số nguyên ta phải làm tròn trước khi truy xuất tọa độ để đưa ra màn hình.
+  - Với đường thẳng có `m > 1` ta sẽ làm ngược lại cho `Y` biến thiên và tính `X` theo `Y` nghĩa là tại mỗi bước ta có Yi+1 = Yi + 1 => Xi+1 = Xi + m
+  - Với các đoạn thẳng có `Dx <0` ta sẽ cho `X` giảm xuống chứ không tăng.</br>
+  ![Hình vẽ minh hoạ DDA](Image/DDA.png)
 
  
 #### 2. Thuật toán Bresenham
