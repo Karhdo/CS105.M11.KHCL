@@ -23,8 +23,20 @@
 ## QUÁ TRÌNH
 ### Week 1: CÁC THUẬT TOÁN VẼ ĐƯỜNG THẲNG
 #### 1. Thuật toán Digital differential analyzer (DDA)
-  - Phương trình đường thẳng: `y = m.x + b`
-  - Với 2 điểm cho trước ta có được: `m = (y2-y1) / (x2-x1)` => `m = Dy / Dx` . Trong đó m gọi là [hệ số góc](https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99_d%E1%BB%91c)
+  - Phương trình đường thẳng: `y = m.x + b`.
+  - Với 2 điểm cho trước ta có được: `m = (y2-y1) / (x2-x1)` => `m = Dy / Dx` . Trong đó m gọi là [hệ số góc](https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99_d%E1%BB%91c).
+<table>
+<tr>
+  <td>
+    <img src='https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/6cc65a100a6111d7aef4ccc81c9d0ec59011261c/Image/DDA.png'></img>
+  </td>
+  <td>
+    - Thay xi + 1 vào phương trình đường thẳng d: Yi+1 = m(xi +1) + b</br>
+    <=> Yi+1 = mxi +b + m</br>
+    <=> Yi+1 = yi +m</br>
+  </td>
+</tr>
+<table>
 #### 2. Thuật toán Bresenham
 
 <!-- Footer -->
