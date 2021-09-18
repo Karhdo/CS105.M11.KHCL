@@ -21,7 +21,9 @@
 * **Giảng viên**: ThS.Cáp Phạm Đình Thăng
 
 ## QUÁ TRÌNH
-### Week 1:
+### Week 1: CÁC THUẬT TOÁN VẼ ĐƯỜNG THẲNG
+#### 1. Thuật toán Digital differential analyzer (DDA)
+#### 2. Thuật toán Bresenham
 
 <!-- Footer -->
 <p align="center">© Copyright by Đỗ Trọng Khánh</p>
