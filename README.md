@@ -48,15 +48,15 @@
 <table>
 <tr>
   <td width>
-    <img src="https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/8a26ab921d6db3a1d4d1cc39e049d54540d8014b/Image/Bresenham.png" />
+    <img src="https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/97306c26556cc8f728ac43947e344b378dffbae1/Image/Bresenham.png" />
   </td>
   <td>
-    <img src="https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/8a26ab921d6db3a1d4d1cc39e049d54540d8014b/Image/Lu%CC%9Bu%20%C4%91o%CC%82%CC%80%20Bresenham.png" />
+    <img src="https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/97306c26556cc8f728ac43947e344b378dffbae1/Image/Lu%CC%9Bu%20%C4%91o%CC%82%CC%80%20Bresenham.png" />
   </td>
 </tr>
 <table>
   
-  - Code: [DDA Algorithm](Week_1/DDA.cpp)
+  - Code: [DDA Algorithm](Week_1/Bresenham.cpp)
 
 <!-- Footer -->
 <p align="center">© Copyright by Đỗ Trọng Khánh</p>
