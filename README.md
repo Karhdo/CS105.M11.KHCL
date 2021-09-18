@@ -56,7 +56,7 @@
 </tr>
 <table>
   
-  - Code: [DDA Algorithm](Week_1/Bresenham.cpp)
+  - Code: [Bresenham Algorithm](Week_1/Bresenham.cpp)
 
 <!-- Footer -->
 <p align="center">© Copyright by Đỗ Trọng Khánh</p>
