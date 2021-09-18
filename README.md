@@ -30,8 +30,19 @@
   - Do `m` là số thực nên muốn `Yi+1` là số nguyên ta phải làm tròn trước khi truy xuất tọa độ để đưa ra màn hình.
   - Với đường thẳng có `m > 1` ta sẽ làm ngược lại cho `Y` biến thiên và tính `X` theo `Y` nghĩa là tại mỗi bước ta có Yi+1 = Yi + 1 => Xi+1 = Xi + m
   - Với các đoạn thẳng có `Dx <0` ta sẽ cho `X` giảm xuống chứ không tăng.</br>
-  ![Hình vẽ minh hoạ DDA](Image/DDA.png)
-  ![Lưu đồ thuật toán DDA](https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/6c46d3ce4af14c848e4a623ab26f0eea6ccddbfc/Image/Lu%CC%9Bu%20%C4%91o%CC%82%CC%80%20DDA.png)
+
+<table>
+<tr>
+  <td>
+    <img src="https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/d745acb3dbbf247cb71d60679b1c07f4fd4313f7/Image/DDA.png" />
+  </td>
+  <td>
+    <img src="https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/d745acb3dbbf247cb71d60679b1c07f4fd4313f7/Image/Lu%CC%9Bu%20%C4%91o%CC%82%CC%80%20DDA.png" />
+  </td>
+</tr>
+<table>
+  
+  - Code: [DDA Algorithm]()
  
 #### 2. Thuật toán Bresenham
 
