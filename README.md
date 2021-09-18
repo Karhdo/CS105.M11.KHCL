@@ -42,7 +42,7 @@
 </tr>
 <table>
   
-  - Code: [DDA Algorithm]()
+  - Code: [DDA Algorithm](Week_1/DDA.cpp)
  
 #### 2. Thuật toán Bresenham
 
