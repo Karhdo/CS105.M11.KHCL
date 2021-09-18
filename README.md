@@ -31,9 +31,10 @@
     <img src='https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/6cc65a100a6111d7aef4ccc81c9d0ec59011261c/Image/DDA.png'></img>
   </td>
   <td>
-    - Thay xi + 1 vào phương trình đường thẳng d: Yi+1 = m(xi +1) + b</br>
-    <=> Yi+1 = mxi +b + m</br>
-    <=> Yi+1 = yi +m</br>
+    - Thay xi + 1 vào phương trình đường thẳng d:</br>
+    <p align = 'center'>=> Yi+1 = m(xi +1) + b</p>
+    <p align = 'center'><=> Yi+1 = mxi +b + m</p>
+    <p align = 'center'><=> Yi+1 = yi +m</p>
   </td>
 </tr>
 <table>
