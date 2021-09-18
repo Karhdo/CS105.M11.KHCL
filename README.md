@@ -31,7 +31,7 @@
   - Với đường thẳng có `m > 1` ta sẽ làm ngược lại cho `Y` biến thiên và tính `X` theo `Y` nghĩa là tại mỗi bước ta có Yi+1 = Yi + 1 => Xi+1 = Xi + m
   - Với các đoạn thẳng có `Dx <0` ta sẽ cho `X` giảm xuống chứ không tăng.</br>
   ![Hình vẽ minh hoạ DDA](Image/DDA.png)
-
+  ![Lưu đồ thuật toán DDA](https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/6c46d3ce4af14c848e4a623ab26f0eea6ccddbfc/Image/Lu%CC%9Bu%20%C4%91o%CC%82%CC%80%20DDA.png)
  
 #### 2. Thuật toán Bresenham
 
