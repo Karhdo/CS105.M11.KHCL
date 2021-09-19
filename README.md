@@ -51,7 +51,7 @@
     <img src="https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/97306c26556cc8f728ac43947e344b378dffbae1/Image/Bresenham.png" />
   </td>
   <td>
-    <img src="https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/97306c26556cc8f728ac43947e344b378dffbae1/Image/Lu%CC%9Bu%20%C4%91o%CC%82%CC%80%20Bresenham.png" />
+    <img src="https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/15c766e2f10ace0dd4596c5b583db23bf856c912/Image/Lu%CC%9Bu%20%C4%91o%CC%82%CC%80%20Bresenham.png" />
   </td>
 </tr>
 <table>
