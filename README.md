@@ -48,6 +48,16 @@
 <table>
 <tr>
   <td width>
+    <img src="https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/ab360a54d62f1b40c112fe1c221928f2a81aebfa/Image/bre_1.jpg" />
+  </td>
+  <td>
+    <img src="https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/ab360a54d62f1b40c112fe1c221928f2a81aebfa/Image/bre_2.jpg" />
+  </td>
+</tr>
+<table>
+<table>
+<tr>
+  <td width>
     <img src="https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/97306c26556cc8f728ac43947e344b378dffbae1/Image/Bresenham.png" />
   </td>
   <td>
