@@ -21,7 +21,7 @@
 * **Giảng viên**: ThS.Cáp Phạm Đình Thăng
 
 ## QUÁ TRÌNH
-### Week 1: CÁC THUẬT TOÁN VẼ ĐƯỜNG THẲNG
+### Week 1: Các thuật toán vẽ đường thẳng.
 #### 1. Thuật toán Digital differential analyzer (DDA)
   - Phương trình đường thẳng: `y = m.x + b`.</br>
   </br>![Phương trình đường thẳng](Image/ptdt.png)
@@ -58,7 +58,8 @@
 </tr>
 <table>
   
-  - Code: [Bresenham Algorithm](Week_1/LineBresenham.cpp)
+  - Code: [Bresenham Algorithm](Week_1/LineBresenham.cpp)</br>
+### Week 2: Thuật toán vẽ đường tròn và Các phép biến đổi.
 
 <!-- Footer -->
 <p align="center">© Copyright by Đỗ Trọng Khánh</p>
