@@ -73,5 +73,18 @@
   </td>
 </tr>
 <table>
+  
+#### 2. Các phép biển đổi affine cơ sở.
+  - Có 3 phép biến đổi affine cơ sở: Phép tịnh tiến, Phép quay, Phép tỉ lệ.
+  - Phép tịnh tiến (translation): Dùng để thay đổi vị trí của đối tượng từ vị trí này sáng vị trí khác.
+    + Độ dịch chuyển trên trục Ox : tx.
+    + Độ dịch chuyển trên trục Oy : ty.
+  - Phép quay (rotation): Dùng để thay đổi hướng của đối tượng.
+    + Tâm quay : O.
+    + Góc quay : alpha.
+  - Phép tỉ lệ (scaling): Dùng để thay đổi kích thước của đối tượng.
+    + Tâm tỉ lệ : O.
+    + Hệ số tỉ lệ : sx, sy.
+  - [Công thức và ứng dụng]()
 <!-- Footer -->
 <p align="center">© Copyright by Đỗ Trọng Khánh</p>
