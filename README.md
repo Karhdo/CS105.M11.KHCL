@@ -74,6 +74,8 @@
 </tr>
 <table>
   
+- Code: [Mid-Point Algorithm](https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/2e0ecad4565bcd6d9b33013ad973ba1332a441b5/Week_2/CircleMidPoint.cpp)
+  
 #### 2. Các phép biển đổi affine cơ sở.
   - Có 3 phép biến đổi affine cơ sở: Phép tịnh tiến, Phép quay, Phép tỉ lệ.
   - Phép tịnh tiến (translation): Dùng để thay đổi vị trí của đối tượng từ vị trí này sáng vị trí khác.
