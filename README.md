@@ -63,5 +63,15 @@
 
 #### 1. Thuật toán Mid-Point.
   - Sử dụng thuật toán Mid-Point để tính toán tất cả các điểm chu vi của vòng tròn trong một cung tròn đầu tiên và sau đó in chúng cùng với các điểm phản chiếu của chúng trong các cung tròn khác. Điều này sẽ hoạt động vì một vòng tròn là đối xứng về tâm của nó.
+  <table>
+<tr>
+  <td width>
+    <img src="https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/200927bf0ea480ca7ee4d60dff7e335b5ed43639/Image/Mid-point.png" />
+  </td>
+  <td>
+    <img src="https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/200927bf0ea480ca7ee4d60dff7e335b5ed43639/Image/Lu%CC%9Bu-%C4%91o%CC%82%CC%80%20Mid-point.png" />
+  </td>
+</tr>
+<table>
 <!-- Footer -->
 <p align="center">© Copyright by Đỗ Trọng Khánh</p>
