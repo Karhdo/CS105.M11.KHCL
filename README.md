@@ -61,5 +61,7 @@
   - Code: [Bresenham Algorithm](Week_1/LineBresenham.cpp)</br>
 ### Week 2: Thuật toán vẽ đường tròn và Các phép biến đổi.
 
+#### 1. Thuật toán Mid-Point.
+  - Sử dụng thuật toán Mid-Point để tính toán tất cả các điểm chu vi của vòng tròn trong một cung tròn đầu tiên và sau đó in chúng cùng với các điểm phản chiếu của chúng trong các cung tròn khác. Điều này sẽ hoạt động vì một vòng tròn là đối xứng về tâm của nó.
 <!-- Footer -->
 <p align="center">© Copyright by Đỗ Trọng Khánh</p>
