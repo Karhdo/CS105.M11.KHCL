@@ -85,6 +85,6 @@
   - Phép tỉ lệ (scaling): Dùng để thay đổi kích thước của đối tượng.
     + Tâm tỉ lệ : O.
     + Hệ số tỉ lệ : sx, sy.
-  - [Công thức và ứng dụng]()
+  - [Công thức và cài đặt](https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/54c08fb828f6c528f01af235acb269e937e4b6cb/Week_2/lecture_2D_1.pdf)
 <!-- Footer -->
 <p align="center">© Copyright by Đỗ Trọng Khánh</p>
