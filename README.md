@@ -93,6 +93,7 @@
   - Chia Elip làm 2 phần tại điểm Q nơi có hệ số góc của tiếp tuyến với Elip bằng -1. Tại vùng thứ nhất, x biến thiên nhanh hơn y và tại vùng thứ hai , y biến thiên nhanh hơn x. Nhớ lại công thức hệ số góc của đường cong : `dx/dy = fx/fy = (2b2x) /( 2a2y)`</br>
     
 &emsp;&emsp;&emsp;&emsp;<img align='center' src='https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/1c6a52ad61d7b810fd1e1e6f9b12626a5227fbaf/Image/elip.jpeg'></br>
+  
     - Code: [Mid-Point Algorithm and Boundary Fill & Scan line fill](https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/1510740a8d95bda06f005f19205f65dec570f7b7/Week_3/Elip.cpp)
 <!-- Footer -->
 <p align="center">© Copyright by Đỗ Trọng Khánh</p>
