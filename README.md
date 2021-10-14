@@ -98,6 +98,7 @@
   - Code: [Mid-Point Algorithm and Boundary Fill & Scan line fill.](https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/1510740a8d95bda06f005f19205f65dec570f7b7/Week_3/Elip.cpp)
   
 ### Week 4: Tổng quan về đồ hoạ 3D.
+- Bài tập : [Vẽ hình hộp + Mặt phẳng sử dụng thư viện Three.js.](./Week_4)
   
 <!-- Footer -->
 <p align="center">© Copyright by Đỗ Trọng Khánh</p>
