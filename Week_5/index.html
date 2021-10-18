@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Document</title>
+        <link rel="stylesheet" href="" />
+    </head>
+    <body>
+        <div id="webgl"></div>
+        <script src="./lib/three.js"></script>
+        <script>
+            function init() {
+                var scene = new THREE.Scene();
+                scene.fog = new THREE.FogExp2(0xffffff, 0.05); // Create fog (phủ sương) for scene.
+
+                var plane = getPlane(10); // Create plane (nền).
+                plane.rotation.x = Math.PI / 2;
+
+                // Create Geometry Cone.
+                var geometryCone = getCone(1, 1, 5);
+                geometryCone.name = "geometryCone";
+                geometryCone.position.set(-2, 1, 0);
+
+                // Create Geometry Cylinder.
+                var geometryCylinder = getCylinder(0.5, 0.5, 1, 5);
+                geometryCylinder.name = "geometryCylinder";
+                geometryCylinder.position.set(3, 1, 0);
+
+                // Create Geometry Box.
+                var geometryBox = getBox(1, 1, 1);
+                geometryBox.name = "geometryBox";
+                geometryBox.position.set(1, 1, 3);
+
+                var spotLight = createSpotLight(0xffffff); // Create Spot Light (nguồn sáng).
+
+                scene.add(geometryBox);
+                scene.add(geometryCone);
+                scene.add(geometryCylinder);
+                scene.add(plane);
+                scene.add(spotLight);
+
+                // Create camera and set position.
+                var camera = new THREE.PerspectiveCamera(45, window.innerWidth / window.innerHeight, 1, 1000);
+                camera.position.set(1, 5, 10);
+                camera.lookAt(new THREE.Vector3(0, 0, 0)); // Vị trí mà camera hướng đến.
+
+                var renderer = new THREE.WebGLRenderer({ antialias: true });
+                renderer.setSize(window.innerWidth, window.innerHeight);
+                renderer.setClearColor(0xffffff); // Clear color (Xoá phông và đặt màu cho phông)
+                renderer.shadowMap.enabled = true; // ShadowMap (Đổ bóng).
+                renderer.shadowMap.type = THREE.PCFSoftShadowMap; // Type of shadowMap.
+                document.getElementById("webgl").appendChild(renderer.domElement);
+
+                update(renderer, scene, camera);
+
+                return scene;
+            }
+
+            function getBox(width, height, depth) {
+                var geoBox = new THREE.BoxGeometry(width, height, depth);
+                var boxMaterial = new THREE.MeshLambertMaterial({ color: "dodgerblue" });
+                var box = new THREE.Mesh(geoBox, boxMaterial);
+                box.castShadow = true; // Shadow (đổ bóng).
+                return box;
+            }
+
+            function getCone(radius, height, radialSegments) {
+                var geometry = new THREE.ConeGeometry(radius, height, radialSegments);
+                var material = new THREE.MeshLambertMaterial({ color: "dodgerblue" });
+                var cone = new THREE.Mesh(geometry, material);
+                cone.castShadow = true; // Shadow (đổ bóng).
+                return cone;
+            }
+
+            function getCylinder(radiusTop, radiusBottom, height, radialSegments) {
+                var geometry = new THREE.CylinderGeometry(radiusTop, radiusBottom, height, radialSegments);
+                var material = new THREE.MeshLambertMaterial({ color: "dodgerblue" });
+                var cylinder = new THREE.Mesh(geometry, material);
+                cylinder.castShadow = true; // Shadow (đổ bóng).
+                return cylinder;
+            }
+
+            function getPlane(size) {
+                var geometry = new THREE.PlaneGeometry(size, size);
+                var material = new THREE.MeshLambertMaterial({
+                    color: "cornflowerblue",
+                    side: THREE.DoubleSide,
+                });
+                var mesh = new THREE.Mesh(geometry, material);
+                mesh.receiveShadow = true; // Receive shadow (Nhận đỗ bóng).
+                return mesh;
+            }
+
+            function createSpotLight(color) {
+                var spotLight = new THREE.SpotLight(0xffffff);
+                spotLight.position.set(5, 6, 5);
+                spotLight.castShadow = true;
+                return spotLight;
+            }
+
+            function update(renderer, scene, camera) {
+                renderer.render(scene, camera);
+
+                geometryCone = scene.getObjectByName("geometryCone");
+                geometryCone.rotation.y += 0.01;
+                geometryCone.rotation.z += 0.01;
+
+                geometryCylinder = scene.getObjectByName("geometryCylinder");
+                geometryCylinder.rotation.y += 0.01;
+                geometryCylinder.rotation.z += 0.01;
+
+                geometryBox = scene.getObjectByName("geometryBox");
+                geometryBox.rotation.y += 0.01;
+                geometryBox.rotation.z += 0.01;
+
+                // Loop to create animation
+                requestAnimationFrame(function () {
+                    update(renderer, scene, camera);
+                });
+            }
+
+            var scene = init();
+        </script>
+    </body>
+</html>
