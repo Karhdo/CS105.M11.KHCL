@@ -99,6 +99,9 @@
   
 ### Week 4: Tổng quan về đồ hoạ 3D.
 - Bài tập : [Vẽ hình hộp + Mặt phẳng sử dụng thư viện Three.js.](./Week_4)
-  
+
+### Week 5: Các phép biến đổi trên đồ hoạ 3D.
+  - Bài tập : [Phép biến đổi affine trong không gian 3D + Phép biến đổi quan sát.](./Week_5)
+
 <!-- Footer -->
 <p align="center">© Copyright by Đỗ Trọng Khánh</p>
