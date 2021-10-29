@@ -105,6 +105,12 @@
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Motion in 3D](https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/d0d28a568f72759b39e0928893c00d1f94e800a6/Image/Bie%CC%82%CC%81n_%C4%91o%CC%82%CC%81i_3D.gif)
 
 ### Week 6: Chiếu sáng và Texture trong đồ hoạ 3D.
-  - Bài tập: [Light-Animation]() and [Textuers-Materials]()
+  - Bài tập: [Light-Animation]() and [Textuers-Materials.]()
+<table>
+  <tr>
+    <td><img src='https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/451cfe5a6c9ca44749cfdd95b29a8977b13bb42c/Image/Light-Animation.gif'></td>
+    <td><img src='https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/451cfe5a6c9ca44749cfdd95b29a8977b13bb42c/Image/Textuers-Materials.gif'></td>
+  </tr>
+</table>
 <!-- Footer -->
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;`Copyright © 2021 - Đỗ Trọng Khánh`
