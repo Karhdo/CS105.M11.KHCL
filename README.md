@@ -101,9 +101,10 @@
 - Bài tập : [Vẽ hình hộp + Mặt phẳng sử dụng thư viện Three.js.](./Week_4)
 
 ### Week 5: Các phép biến đổi trên đồ hoạ 3D.
-  - Bài tập : [Phép biến đổi affine trong không gian 3D + Phép biến đổi quan sát.](./Week_5)
-  
+  - Bài tập : [Phép biến đổi affine trong không gian 3D + Phép biến đổi quan sát.](./Week_5)</br>
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Motion in 3D](https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/d0d28a568f72759b39e0928893c00d1f94e800a6/Image/Bie%CC%82%CC%81n_%C4%91o%CC%82%CC%81i_3D.gif)
 
+### Week 6: Chiếu sáng và Texture trong đồ hoạ 3D.
+  - Bài tập: [Light-Animation-Materials.]() and [Textuers.]()
 <!-- Footer -->
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;`Copyright © 2021 - Đỗ Trọng Khánh`
