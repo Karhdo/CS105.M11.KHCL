@@ -114,5 +114,13 @@
   </tr>
 </table>
 
+### Week 7: Xử lý ảnh.
+  - Dò tìm: Khuôn mặt người trong ảnh.
+  - Hướng dẫn:
+      + Download cascade train sẵn ở đây: https://github.com/opencv/opencv/tree/master/data/haarcascades
+      + To detect faces in images
+      + Detect in frame in a video
+  - Bài tập: [Face Detection.]()
+  
 <!-- Footer -->
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;`Copyright © 2021 - Đỗ Trọng Khánh`
