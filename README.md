@@ -43,7 +43,7 @@
 </tr>
 <table>
   
-  - Code: [DDA Algorithm](Week_1/LineDDA.cpp)
+  - Code: [DDA Algorithm](Progress/Week_1/LineBresenham.cpp)
  
 #### 2. Thuật toán Bresenham
   - Với thuật toán Bresenham vẽ đường thẳng có thể xác định được điểm cần tìm dựa vào khoảng cách giữa đường thẳng thực tế với các điểm nằm trong vùng lựa chọn.
@@ -59,7 +59,7 @@
 </tr>
 <table>
   
-  - Code: [Bresenham Algorithm](Week_1/LineBresenham.cpp)</br>
+  - Code: [Bresenham Algorithm](Progress/Week_1/LineBresenham.cpp)</br>
 ### Week 2: Thuật toán vẽ đường tròn và Các phép biến đổi.
 
 #### 1. Thuật toán Mid-Point.
@@ -75,7 +75,7 @@
 </tr>
 <table>
   
-- Code: [Mid-Point Algorithm](https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/2e0ecad4565bcd6d9b33013ad973ba1332a441b5/Week_2/CircleMidPoint.cpp)
+- Code: [Mid-Point Algorithm](Progress//Week_2/CircleMidPoint.cpp)
   
 #### 2. Các phép biển đổi affine cơ sở.
   - Có 3 phép biến đổi affine cơ sở: Phép tịnh tiến, Phép quay, Phép tỉ lệ.
@@ -95,18 +95,18 @@
     
 &emsp;&emsp;&emsp;&emsp;<img align='center' src='https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/1c6a52ad61d7b810fd1e1e6f9b12626a5227fbaf/Image/elip.jpeg'></br>
   
-  - Code: [Mid-Point Algorithm and Boundary Fill & Scan line fill.](https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/1510740a8d95bda06f005f19205f65dec570f7b7/Week_3/Elip.cpp)
+  - Code: [Mid-Point Algorithm and Boundary Fill & Scan line fill.](Progress//Week_3/Elip.cpp)
   
 ### Week 4: Tổng quan về đồ hoạ 3D.
-- Bài tập : [Vẽ hình hộp + Mặt phẳng sử dụng thư viện Three.js.](./Week_4)
+- Bài tập : [Vẽ hình hộp + Mặt phẳng sử dụng thư viện Three.js.](./Progress//Week_4)
 
 ### Week 5: Các phép biến đổi trên đồ hoạ 3D.
-  - Bài tập : [Phép biến đổi affine trong không gian 3D + Phép biến đổi quan sát.](./Week_5)</br>
+  - Bài tập : [Phép biến đổi affine trong không gian 3D + Phép biến đổi quan sát.](./Progress//Week_5)</br>
   
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Motion in 3D](https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/d0d28a568f72759b39e0928893c00d1f94e800a6/Image/Bie%CC%82%CC%81n_%C4%91o%CC%82%CC%81i_3D.gif)
 
 ### Week 6: Chiếu sáng và Texture trong đồ hoạ 3D.
-  - Bài tập: [Light-Animation](./Week_6/Light-Animation) and [Textuers-Materials.](./Week_6/Textuers-Materials)
+  - Bài tập: [Light-Animation.](./Progress/Week_6/Light-Animation) and [Textuers-Materials.](./Progress//Week_6/Textuers-Materials)
 <table>
   <tr>
     <td><img src='https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/451cfe5a6c9ca44749cfdd95b29a8977b13bb42c/Image/Light-Animation.gif'></td>
@@ -120,7 +120,7 @@
       + Download cascade train sẵn ở đây: https://github.com/opencv/opencv/tree/master/data/haarcascades
       + To detect faces in images
       + Detect in frame in a video
-  - Bài tập: [Face Detection.](https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/99c1deed25445b404c812e005116573610ecf940/Week_7/Face-Detection.ipynb)
+  - Bài tập: [Face Detection.](Progress/Week_7/Face-Detection.ipynb)
   
 <!-- Footer -->
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;`Copyright © 2021 - Đỗ Trọng Khánh`
