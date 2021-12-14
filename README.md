@@ -126,7 +126,7 @@
   - Dò tìm các feature của khuôn mặt: mắt, mũi, miệng của khuôn mặt.
   - Dò tìm người đi bộ trong ảnh và video.
   - Dò tìm car trong ảnh.
-  - Bài tập: [Object Detection.](Progress/Week_7/Face-Detection.ipynb)
+  - Bài tập: [Object Detection.](Progress/Week_8/Untitled0.ipynb)
   
 <!-- Footer -->
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;`Copyright © 2021 - Đỗ Trọng Khánh`
