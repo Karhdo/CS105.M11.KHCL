@@ -130,8 +130,8 @@
 
 ## ĐỒ ÁN CUỐI KÌ
   - Tên đề tài: Mô phỏng hình học 3D cơ bản.
-  - File báo cáo: [Final Report]()
-  - Demo: [Project Computer Graphics]()
+  - File báo cáo: [Final Report.](Final_Project/Final_Report.pdf)
+  - Demo: [Project Computer Graphics.](https://trong-khanh-1109.github.io/Project_Computer-Graphics/)
   
 <!-- Footer -->
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;`Copyright © 2021 - Đỗ Trọng Khánh`
