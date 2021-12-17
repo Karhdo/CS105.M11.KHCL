@@ -132,7 +132,7 @@
   - Tên đề tài: Mô phỏng hình học 3D cơ bản.
   - File báo cáo: [Final Report.](Final_Project/Final_Report.pdf)
   - Demo: [Project Computer Graphics.](https://trong-khanh-1109.github.io/Project_Computer-Graphics/)
-  <p align='center'><img src='https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/188e42b7eaf16d825bd5b07e650d2890a83cc767/Image/final_project.gif'></p>
+  <p align='center'><img src='https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/00a69f6b5414f34d20cfa8faff7c28eda363a11e/Image/final_project.png'></p>
   
 <!-- Footer -->
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;`Copyright © 2021 - Đỗ Trọng Khánh`
