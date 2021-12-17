@@ -1,5 +1,5 @@
 <h1 align="center">HƯỚNG DẪN CÀI ĐẶT VÀ SỬ DỤNG ĐỒ ÁN</h1>
-I. Hướng dẫn cài đặt:
+# I. Hướng dẫn cài đặt:
 
 B1: Cài đặt Visual Studio Code (https://code.visualstudio.com/download).
 
@@ -7,7 +7,7 @@ B2: Cài đặt Live Sever extension tại Extension trong Visual Studio Code.
 
 * Hoặc click vào link sau để sử dụng ngay: https://trong-khanh-1109.github.io/Project_Computer-Graphics/
 
-II. Hướng dẫn sử dụng:
+# II. Hướng dẫn sử dụng:
 
 B1: Sau khi chúng ta giải nén file:"DoAn_19521676_19521383_19521326.zip" thì chúng ta sẽ có được 2 file là Doc, Source.
 
@@ -19,3 +19,5 @@ B4: Tại bên trái của màn hình, ta sẽ thấy lần lượt các các n�
 Tại bên phải của màn hình, là bộ điều khiển dat.GUI giúp điều chỉnh các thông số của camera, light và màu của geometry.
 
 * Để thuận tiện cho việc theo dõi cách sử dụng đồ án, người dùng có thể theo dõi video demo mà nhóm đã quay sẵn tại đây: https://www.youtube.com/watch?v=J6KY160_foU.
+
+  <p align='center'><img src='https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/451cfe5a6c9ca44749cfdd95b29a8977b13bb42c/Image/Light-Animation.gif'></p>
