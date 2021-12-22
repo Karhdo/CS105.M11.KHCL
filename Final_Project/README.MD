@@ -1,4 +1,5 @@
-<h1 align="center">HƯỚNG DẪN CÀI ĐẶT VÀ SỬ DỤNG ĐỒ ÁN</h1></br>
+<h1 align="center">HƯỚNG DẪN CÀI ĐẶT VÀ SỬ DỤNG ĐỒ ÁN</h1>
+
 # I. Hướng dẫn cài đặt:
 
 B1: Cài đặt Visual Studio Code (https://code.visualstudio.com/download).
