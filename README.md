@@ -133,6 +133,7 @@
   - Tên đề tài: Mô phỏng hình học 3D cơ bản.
   - File báo cáo: [Final Report.](Final_Project/Final_Report.pdf)
 ### Thực nghiệm
+  - Source code: [Simulate Basic Geometry](https://github.com/Karhdo/geometry-simulation)
   - Demo: [Project Computer Graphics.](https://DoTrOngKhAnh.github.io/Project_Computer-Graphics/)
   <p align='center'><img src='https://github.com/trong-khanh-1109/CS105.M11.KHCL/blob/00a69f6b5414f34d20cfa8faff7c28eda363a11e/Image/final_project.png'></p>
   
